@@ -98,10 +98,6 @@ Powered by **Java** ☕
 
 ---
 
-Would you like me to add anything else? 😊
-
----
-
 ## 🛠 Technologies Used  
 
 - **Java 17** (or later)  
