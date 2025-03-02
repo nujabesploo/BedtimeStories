@@ -15,23 +15,15 @@ The **Bedtime Stories** application is a **Java-based file reader** that display
 
 ---
 
-## 🏗️ How It Works  
-1. **Run the program** in a Java-supported environment.  
-2. Enter the **file path** of the text document you wish to read.  
-3. The program **opens and reads the file line by line**, displaying each line with its respective **line number**.  
-4. The output is **formatted for better readability**.  
-5. If the file is not found or an error occurs, the program provides **useful error messages**.  
-
----
-
 ## 📸 Screenshots  
 Below are some example screenshots of the program in action:  
 
 ### 📜 Reading a Text File  
-![File Reader Screenshot](https://github.com/user-attachments/assets/filereader-example.png)  
+<img src="https://github.com/user-attachments/assets/b161ce4c-e775-469e-9cd7-3a6efe5f3c04" alt="Another screenshot of application" width="500" length="100"/>
 
 ### ⚠️ Handling File Errors  
-![Error Screenshot](https://github.com/user-attachments/assets/error-example.png)  
+
+<img src="https://github.com/user-attachments/assets/d5f8678c-7434-424a-bdca-d1aea09c4d28" alt="Screenshot of application" width="270" length="100"/>
 
 ---
 
