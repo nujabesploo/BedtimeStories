@@ -49,11 +49,14 @@ Powered by **Java** ☕
 
 ---
 
-## 🛠 Technologies Used  
+## ✨ Crediting & Publishing
 
-- **Java 17** (or later)  
-- **BufferedReader & FileReader** for efficient file input  
-- **Scanner** for user input handling  
-- **Maven (Optional)** for dependency management  
+If you use or modify this project:  
+✔️ **Give credit** by mentioning the original project in your repository.  
+✔️ **Feel free to fork** and customize for your own needs.  
+✔️ **Publish improvements** and contribute back to the community!  
 
+If you plan to **publish** your own version, please:  
+📌 Include an acknowledgment to this original repository.  
+📌 Clearly document any modifications or enhancements you've made.  
 ---
